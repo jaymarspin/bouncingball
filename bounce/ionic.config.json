@@ -1,0 +1,7 @@
+{
+  "name": "bounce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
